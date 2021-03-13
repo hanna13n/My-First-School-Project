@@ -8,19 +8,19 @@ A menu driven sales management system
 4. [Bibliography](#bibliography)    
 
 ### PROJECT OVERVIEW  
-As the name of the project indicates this project indicates (sales management system), this program intends to meet the requirements of marketing by provididng a digital support for the retailers.  
+As the name of the project indicates (sales management system), this program intends to meet the requirements of marketing by provididng a digital support for the retailers.  
 This program aims to reduce the manpower required to set up the generation of invoices, by means of a simple interface through which the retailer can login as accountant who manages data of products, which includes adding, deleting, viewing, and modifying product details and also generating invoices for each products sold.  
 
 ### FUNCTIONS USED
-- void getprdct()
-- void putprdct()
-- void write()
-- void read()
-- void search
-- void sellprdct()
-- void createbill()
-- void modify()
-- void deleteprdct()
+- [void getprdct()](https://github.com/hanna13n/My-First-School-Project/blob/4dc743e0e5360f31cadab709bf5f3a50eaf48867/sales_manage_sys.CPP#L82)
+- [void putprdct()](https://github.com/hanna13n/My-First-School-Project/blob/4dc743e0e5360f31cadab709bf5f3a50eaf48867/sales_manage_sys.CPP#L104)
+- [void write()](https://github.com/hanna13n/My-First-School-Project/blob/4dc743e0e5360f31cadab709bf5f3a50eaf48867/sales_manage_sys.CPP#L98)
+- [void read()](https://github.com/hanna13n/My-First-School-Project/blob/4dc743e0e5360f31cadab709bf5f3a50eaf48867/sales_manage_sys.CPP#L121)
+- [void search](https://github.com/hanna13n/My-First-School-Project/blob/4dc743e0e5360f31cadab709bf5f3a50eaf48867/sales_manage_sys.CPP#L139)
+- [void sellprdct()](https://github.com/hanna13n/My-First-School-Project/blob/4dc743e0e5360f31cadab709bf5f3a50eaf48867/sales_manage_sys.CPP#L207)
+- [void createbill()](https://github.com/hanna13n/My-First-School-Project/blob/4dc743e0e5360f31cadab709bf5f3a50eaf48867/sales_manage_sys.CPP#L269)
+- [void modify()](https://github.com/hanna13n/My-First-School-Project/blob/4dc743e0e5360f31cadab709bf5f3a50eaf48867/sales_manage_sys.CPP#L302)
+- [void deleteprdct()](https://github.com/hanna13n/My-First-School-Project/blob/4dc743e0e5360f31cadab709bf5f3a50eaf48867/sales_manage_sys.CPP#L375)
 
 ### BIBLIOGRAPHY
 - Computer Science with C++ -SUMITA ARORA
