@@ -2,10 +2,10 @@
 A menu driven sales management system  
   
 ### CONTENTS  
-1. [Project Overview](#Project Overview)  
-2. [Functions Used](#Functions Used)    
+1. [Project Overview](#Project-Overview)  
+2. [Functions Used](#Functions-Used)    
 3. [Source Code](https://github.com/hanna13n/My-First-School-Project/blob/master/sales_manage_sys.CPP)   
-4. Bibliography(#bibliography)    
+4. [Bibliography](#bibliography)    
 
 ### PROJECT OVERVIEW  
 As the name of the project indicates this project indicates (sales management system), this program intends to meet the requirements of marketing by provididng a digital support for the retailers.  
